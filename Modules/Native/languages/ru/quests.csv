@@ -1,0 +1,63 @@
+﻿lockitver|DO NOT DELETE THIS LINE! 2896
+qst_deliver_message|Доставить послание {s13}
+qst_deliver_message_to_enemy_lord|Доставить послание {s13}
+qst_raise_troops|Найти {reg1} {s14}
+qst_escort_lady|Сопроводить {s13} в {s14}
+qst_deal_with_bandits_at_lords_village|Спасти деревню {s15} от разбойных бандитов
+qst_kill_local_merchant|Убить местного торговца в {s3}
+qst_bring_back_runaway_serfs|Вернуть беглых крепостных
+qst_follow_spy|Проследить за шпионом до встречи
+qst_capture_enemy_hero|Взять в плен лорда из {s13}
+qst_lend_companion|Одолжить вашего спутника {s3} {s9}
+qst_incriminate_loyal_commander|Скомпрометировать верного командующего {s13}, {s16}
+qst_meet_spy_in_enemy_town|Встретить шпиона в {s13}
+qst_capture_prisoners|Привести {reg1} пленных {s3}
+qst_lend_surgeon|Одолжить вашего лекаря {s3} {s1}
+qst_follow_army|Следовать за армией {s9}
+qst_report_to_army|Отчитаться перед {s13}, маршалом
+qst_deliver_cattle_to_army|Доставить {reg3} голов скота {s13}
+qst_join_siege_with_army|Принять участие в осаде {s14}
+qst_screen_army|Защитить продвижение армии {s13}
+qst_scout_waypoints|Разведать {s13}, {s14} и {s15}
+qst_rescue_lord_by_replace|Спасти {s13} из {s14}
+qst_deliver_message_to_prisoner_lord|Доставить послание {s13} в {s14}
+qst_duel_for_lady|Вызвать {s13} на испытание оружием
+qst_duel_courtship_rival|Вызвать {s13} на дуэль (необязательно)
+qst_duel_avenge_insult|Вызвать {s13} на дуэль
+qst_move_cattle_herd|Пригнать стадо скота в {s13}
+qst_escort_merchant_caravan|Сопроводить торговый караван в {s8}
+qst_deliver_wine|Доставить {reg5} единиц {s6} в {s4}
+qst_troublesome_bandits|Выследить разбойных бандитов
+qst_kidnapped_girl|Заплатить бандитам выкуп за девушку
+qst_persuade_lords_to_make_peace|Убедиться, что два лорда не препятствуют миру
+qst_deal_with_looters|Разобраться с мародёрами
+qst_deal_with_night_bandits|Разобраться с ночными бандитами
+qst_deliver_grain|Привезти пшеницу в {s3}
+qst_deliver_cattle|Доставить {reg5} голов скота в {s3}
+qst_train_peasants_against_bandits|Обучить крестьян {s13} борьбе с бандитами
+qst_eliminate_bandits_infesting_village|Спасти деревню {s7} от разбойных бандитов
+qst_visit_lady|Навестить даму
+qst_formal_marriage_proposal|Официальное предложение руки и сердца
+qst_obtain_liege_blessing|Официальное предложение руки и сердца
+qst_wed_betrothed|Жениться на невесте
+qst_wed_betrothed_female|Выйти замуж за жениха
+qst_join_faction|Принести клятву верности {s1}
+qst_rebel_against_kingdom|Помочь {s13} завоевать трон {s14}
+qst_consult_with_minister|Посоветоваться с министром
+qst_organize_feast|Организовать пир
+qst_resolve_dispute|Уладить спор
+qst_offer_gift|Приобрести подарок
+qst_denounce_lord|Обвинить лорда
+qst_intrigue_against_lord|Плести интриги против лорда
+qst_track_down_bandits|Выследить бандитов
+qst_track_down_provocateurs|Выследить провокаторов
+qst_retaliate_for_border_incident|Отомстить за пограничный инцидент
+qst_raid_caravan_to_start_war|Военная провокация путём нападения на нейтральный караван
+qst_cause_provocation|Дать одному королевству достаточно провокации для нападения на другое
+qst_rescue_prisoner|Освободить или выкупить пленника
+qst_destroy_bandit_lair|Уничтожить логово бандитов
+qst_collect_men|Нанять пять человек
+qst_learn_where_merchant_brother_is|Выяснить, где удерживают заложников
+qst_save_relative_of_merchant|Атаковать логово бандитов
+qst_save_town_from_bandits|Защитить город от бандитов
+qst_quests_end|Конец заданий
